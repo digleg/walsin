@@ -1,0 +1,19 @@
+/* stylelint-disable */
+.navigationwrapper {
+  display: inline-block;
+  font-size: 1.1em;
+  vertical-align: middle;
+  background: #ccc;
+}
+
+.items {
+  font-size: 1.1em;
+  color: Blue;
+  text-decoration: none;
+}
+
+.currentPage {
+  font-size: 1.1em;
+  color: Green;
+  text-decoration: none;
+}

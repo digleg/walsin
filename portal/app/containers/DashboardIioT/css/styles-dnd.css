@@ -1,0 +1,21 @@
+.dragdropCSS {
+  display: inline-block;
+  padding: 0.2em;
+  border-radius: px;
+  position: absolute;
+  -webkit-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  transition: background-color 0.3s;
+}
+.widgetTempCSS {
+  position: absolute;
+  left: 40%;
+  top: 30%;
+  color: #000;
+}
+.widgetHumCSS {
+  position: absolute;
+  left: 33%;
+  top: 63%;
+  color: #000;
+}
