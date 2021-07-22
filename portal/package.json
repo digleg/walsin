@@ -309,7 +309,7 @@
     "timediff": "^1.1.1",
     "warning": "3.0.0",
     "whatwg-fetch": "2.0.3",
-    "xlsx": "^0.12.6"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "add-asset-html-webpack-plugin": "2.0.1",
