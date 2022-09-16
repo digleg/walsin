@@ -217,7 +217,7 @@
     "antd": "^3.14.1",
     "axios": "^0.18.0",
     "babel-polyfill": "6.23.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "bootstrap-daterangepicker": "^3.0.3",
     "bootstrap-table": "^1.11.2",
     "cfenv": "1.0.x",
